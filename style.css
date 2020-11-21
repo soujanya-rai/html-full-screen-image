@@ -1,0 +1,26 @@
+html, body {
+    height: 100%;
+}
+
+.container {
+    position: relative;
+    font-family: Arial;
+    height: 100%;
+}
+  
+.text-block {
+    position: absolute;
+    top: 20%;
+    left: 42%;
+    background-color: black;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.bkImg {
+    position: fixed; 
+    top: 0; 
+    left: 0; 
+    width:100%;
+}
